@@ -15,6 +15,6 @@ I'm Zach, a student at Brigham Young University-Idaho interested in web and soft
 
 ## Let's Connect!
 
-- Here is my [LinkedIn] (www.linkedin.com/in/zach-wetsel-b6a65b155) profile
+- Here is my [LinkedIn](www.linkedin.com/in/zach-wetsel-b6a65b155) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
